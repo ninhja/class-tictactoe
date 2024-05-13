@@ -2,6 +2,10 @@
 
 # Horoscopes project 
 
+## Check this project out in the browser! 
+https://tictactoe-in-class-feam1-spring-2024.vercel.app/
+
+## This project was made with React and Vite 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
